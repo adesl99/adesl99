@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/41876764/94856480-e7b8b200-03e4-11eb-949d-c3a447b43df2.jpeg)]
 <h1 align="center">Hi 👋, I'm Adel Sbaih</h1>
 <h3 align="center">
   A passionate frontend developer from Palestine (living in Germany)
