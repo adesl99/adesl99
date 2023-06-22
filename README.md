@@ -114,27 +114,4 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adesl99&show_icons=true&locale=en&layout=compact"
-    alt="adesl99"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=adesl99&show_icons=true&locale=en"
-    alt="adesl99"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adesl99&"
-    alt="adesl99"
-  />
-</p>
 
